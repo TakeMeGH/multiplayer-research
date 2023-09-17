@@ -29,7 +29,7 @@ public class RelayController : MonoBehaviour
 
     public async void createRelay(){
         try{
-            Allocation allocation = await RelayService.Instance.CreateAllocationAsync(2);
+            Allocation allocation = await RelayService.Instance.CreateAllocationAsync(4);
 
             string gameCode = await RelayService.Instance.GetJoinCodeAsync(allocation.AllocationId);
 

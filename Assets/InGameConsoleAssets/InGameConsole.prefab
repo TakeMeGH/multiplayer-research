@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &195168681787391244
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1402214670067936901, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: m_text
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670106720293, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: m_Text
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670106720293, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Lim.InGameConsole.Parser.InputParser, Lim.InGameConsole
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564456, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: AssemblyNames.Array.size
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564456, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: AssemblyNames.Array.data[0]
+      value: Unity.Profiling.Core
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564456, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: AssemblyNames.Array.data[1]
+      value: Unity.Multiplayer.Tools.NetStatsMonitor.Component
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564456, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: AssemblyNames.Array.data[2]
+      value: Unity.Services.Core.Configuration
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564456, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: AssemblyNames.Array.data[3]
+      value: Unity.Multiplayer.Tools.NetworkSolutionInterface
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564456, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: AssemblyNames.Array.data[4]
+      value: Unity.Services.Core.Threading
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564456, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: AssemblyNames.Array.data[5]
+      value: Unity.Services.Core
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564456, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: AssemblyNames.Array.data[6]
+      value: Unity.Services.Core.Networking
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564456, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: AssemblyNames.Array.data[7]
+      value: Unity.Tutorials.Core
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564456, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: AssemblyNames.Array.data[8]
+      value: Unity.Services.Core.Registration
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564456, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: AssemblyNames.Array.data[9]
+      value: Unity.Multiplayer.Tools.Initialization
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564458, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564458, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 605.3184
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564458, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 590.0411
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564458, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -143.52373
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564458, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564458, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564458, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564458, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564458, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564458, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564458, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670112564459, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: m_Name
+      value: InGameConsole
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670605223676, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: m_text
+      value: "\u200B"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214670762440823, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: m_text
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402214671424824231, guid: 008997bf22fb43046ba59fe9c042fb0b,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 008997bf22fb43046ba59fe9c042fb0b, type: 3}
